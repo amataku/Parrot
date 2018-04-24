@@ -1,6 +1,6 @@
 # node_julius
 ## Summary
-* Node.js・Julius・OpenJTalkを使用し、喋ったことをOpenJTalkでオウム返ししてくれるアプリ
+* Node.js・Julius・OpenJTalkを使用した、喋ったことをオウム返ししてくれるアプリ
 
 ## Usage
 * 使用する場合はJuliusをダウンロードし、moduleモードでlocalhost:8080を立てておいてください。
