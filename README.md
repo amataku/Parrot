@@ -11,3 +11,6 @@
 ## Future Releases
 * 実行方法の改善
 * サーバーも同時に立てるようにする
+
+## License
+MIT
