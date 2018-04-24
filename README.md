@@ -13,4 +13,4 @@
 * サーバーも同時に立てるようにする
 
 ## License
-MIT
+[MIT](./LICENSE)
