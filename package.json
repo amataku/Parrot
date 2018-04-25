@@ -15,7 +15,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "setting": "./set.sh",
+    "server" : "./server.sh"
   },
   "author": "amataku",
   "license": "MIT"
