@@ -15,6 +15,7 @@ var client = net.createConnection(PORT,'localhost',function(){
 });
 
 client.on('data',function(data){
+  //ここにフラグ入れたらええんとちゃう？
   fs.appendFile('log/log.xml',data,'utf8',(error)=>{});
 });
 
