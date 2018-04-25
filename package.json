@@ -16,8 +16,8 @@
   "devDependencies": {},
   "scripts": {
     "start": "node index.js",
-    "setting": "./set.sh",
-    "server" : "./server.sh"
+    "setting": "shell/set.sh",
+    "server" : "shell/server.sh"
   },
   "author": "amataku",
   "license": "MIT"
