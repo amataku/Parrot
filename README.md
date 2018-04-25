@@ -1,4 +1,4 @@
-# node_julius
+# Parrot
 ## Summary
 * Node.js・Julius・OpenJTalkを使用した、喋ったことをオウム返ししてくれるアプリ
 
