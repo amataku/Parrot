@@ -11,7 +11,8 @@
     "net": "^1.0.2",
     "openjtalk": "^0.1.6",
     "util": "^0.10.3",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.19",
+    "keypress": "^0.2.1"
   },
   "devDependencies": {},
   "scripts": {
