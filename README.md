@@ -1,7 +1,7 @@
 # Parrot
 ## Summary
 * Node.js・Julius・OpenJTalkを使用した、喋ったことをオウム返ししてくれるアプリ
-* Linux環境推奨:Linux Mint18.2・Debian9.4で動作確認済み
+* Linux環境推奨:Debian9.4で動作確認済み
 
 ## Usage
 * 初回は```npm install```,```npm run setting```を行ってください。
