@@ -7,7 +7,7 @@ const openjtalk = require('openjtalk');
 var parser = new xml2js.Parser();
 var mei = new openjtalk();
 
-const PORT =　8080;
+const PORT =　10500;
 
 var client = net.createConnection(PORT,'localhost',function(){
   fs.writeFile('log/log.xml','<a>',(error)=> {});

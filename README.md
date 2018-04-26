@@ -1,6 +1,7 @@
 # Parrot
 ## Summary
 * Node.js・Julius・OpenJTalkを使用した、喋ったことをオウム返ししてくれるアプリ
+* Linux環境推奨:Linux Mint18.2で動作確認済み
 
 ## Usage
 * 初回は```npm install```,```npm run setting```を行ってください。
@@ -14,6 +15,10 @@
 * 実行方法の改善
 * アプリの実行時にサーバーも同時に立てるようにする
 * Bugの修正
+
+## Requirement
+* Node.js :v8.11.1
+* npm     :v5.6.0
 
 ## License
 [MIT](./LICENSE)
