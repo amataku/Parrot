@@ -17,8 +17,8 @@
 * Bugの修正
 
 ## Requirement
-* Node.js :v9.10.1
-* npm     :v5.8.0
+* Node.js : v9.10.1
+* npm     : v5.8.0
 
 ## License
 [MIT](./LICENSE)
