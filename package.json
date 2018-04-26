@@ -17,7 +17,7 @@
   "scripts": {
     "start": "node index.js",
     "setting": "shell/set.sh",
-    "server" : "shell/server.sh"
+    "server": "shell/server.sh"
   },
   "author": "amataku",
   "license": "MIT"
